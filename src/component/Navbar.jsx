@@ -6,9 +6,9 @@ const Navbar = () => {
     const [mobileOpen, setMobileOpen] = useState(false)
 
     return (
-        <div className='h-[80px] p-4 sm:p-5 flex justify-between items-center w-full shadow-md shadow-gray-700/50 relative'>
+        <div className='h-20 p-4 sm:p-5 flex justify-between items-center w-full shadow-md shadow-gray-700/50 relative'>
             <div className="cursor-pointer logo text-lg sm:text-xl md:text-xl font-bold">
-                RandomShop
+                CityCrafts
             </div>
 
             <div className="flex gap-3 items-center justify-between  md:hidden">
