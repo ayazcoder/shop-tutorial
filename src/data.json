@@ -1,0 +1,37 @@
+{
+  "1": {
+    "id": 1,
+    "name": "King Size Bed",
+    "category": "Furniture",
+    "price": "300",
+    "img": "https://res.cloudinary.com/dh6jiybqa/image/upload/v1709024537/jaox87idpi4htjj3svnk.jpg"
+  },
+  "3": {
+    "id": 3,
+    "name": "CD Rack",
+    "category": "Furniture",
+    "price": "100",
+    "img": "https://res.cloudinary.com/dh6jiybqa/image/upload/v1709024537/qfixstecdqxtrdojsmjb.jpg"
+  },
+  "4": {
+    "id": 4,
+    "name": "Glow Stick Bundle",
+    "category": "Furniture",
+    "price": "10",
+    "img": "https://res.cloudinary.com/dh6jiybqa/image/upload/v1709024537/tuoo9hgniicakqkwfaip.jpg"
+  },
+  "2": {
+    "id": 2,
+    "name": "Comfy Slippers",
+    "category": "Clocks",
+    "price": "15",
+    "img": "https://res.cloudinary.com/dh6jiybqa/image/upload/v1709024537/qfixstecdqxtrdojsmjb.jpg"
+  },
+  "5": {
+    "id": 5,
+    "name": "Cookie Jar",
+    "category": "Furniture",
+    "price": "25",
+    "img": "https://res.cloudinary.com/dh6jiybqa/image/upload/v1709024536/fkyzdv5ncydwkj76t2e7.jpg"
+  }
+}
